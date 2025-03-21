@@ -13,7 +13,10 @@ A sleek **Java-based AI chatbot** with a **modern GUI**, dark/light mode support
 ---
 
 ## **🖥️ Demo Preview**  
+![Chatbot UI](https://drive.google.com/file/d/1ABBUm43GwKxWbuftjj-ms8PLj2eVpimW/view?usp=drive_link)
 
+### 🎥 Live Demo
+![Chatbot Demo]()
 
 ## **📌 Installation**  
 1. **Clone the Repository**  
@@ -56,8 +59,8 @@ A sleek **Java-based AI chatbot** with a **modern GUI**, dark/light mode support
 ---
 
 ## **📩 Contact**  
-📧 Email: your-email@example.com  
-🔗 GitHub: [your-username](https://github.com/your-username)  
+📧 Email: sayalimvanjare@gmail.com  
+🔗 GitHub: [sayalivanjare](https://github.com/sayalivanjare)  
 
 ---
 
