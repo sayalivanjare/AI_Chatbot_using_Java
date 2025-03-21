@@ -16,7 +16,7 @@ A sleek **Java-based AI chatbot** with a **modern GUI**, dark/light mode support
 ![Chatbot UI](https://drive.google.com/file/d/1ABBUm43GwKxWbuftjj-ms8PLj2eVpimW/view?usp=drive_link)
 
 ### 🎥 Live Demo
-![Chatbot Demo](chatbot-demo.gif)
+![Chatbot Demo](chatbot-demo.gif.mp4)
 
 ## **📌 Installation**  
 1. **Clone the Repository**  
