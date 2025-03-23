@@ -15,7 +15,7 @@ public class ChatBot {
     private static JLabel typingIndicator;
     private static JScrollPane scrollPane;
     private static boolean darkMode = true;
-    private static final String API_KEY = "AIzaSyByTVBcuuK4hWmF4azMIr6UUdx4E9qaItc";
+    private static final String API_KEY = "USE_YOUR_KEY";
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(ChatBot::createAndShowGUI);
